@@ -1,2 +1,2 @@
 ## This is a repository of the reseach project on Bengali Speech Recognition by Technical Bangla.
-## Supervisor Dr. Amin Ahsan Ali
+## Supervisor: Dr. Amin Ahsan Ali, University of Dhaka
